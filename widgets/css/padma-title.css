@@ -1,0 +1,33 @@
+.section-title h2 {
+     color: #b48d62;
+     font-size: 30px;
+     letter-spacing: 2px;
+     text-align: center;
+     text-transform: uppercase;
+}
+.line-animations {
+     width: 66px;
+     height: 12px;
+     overflow: hidden;
+     display: inline-block;
+     position: absolute;
+     top: 30px;
+     left: 365px;
+}
+.line-animations2 {
+     width: 66px;
+     height: 12px;
+     overflow: hidden;
+     display: inline-block;
+     position: absolute;
+     top: 30px;
+     right: 370px;
+}
+.line-bg{
+     position: relative;
+    background: url("../img/line.png")repeat-x;  
+    width: 1320px;
+    height: 12px;
+    animation: backdrop_roll linear 12s infinite;
+}
+@keyframes backdrop_roll { from { right: 0px; } to { right: 320px; } }

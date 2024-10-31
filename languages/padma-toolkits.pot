@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Padma Toolkits\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-01 16:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.7; wp-5.9.1\n"
+"X-Domain: padma-toolkits"
+
+#: padma-toolkits.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: padma-toolkits.php:97 padma-toolkits.php:112
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/padma-blog-style.php:89
+msgid "10 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:90
+msgid "11 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:91
+msgid "12 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:82
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:83
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:84
+msgid "5 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:85
+msgid "6 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:86
+msgid "7 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:87
+msgid "8 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:88
+msgid "9 Columns"
+msgstr ""
+
+#: widgets/padma-blog-style.php:69
+msgid "Ascending Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ashathemes"
+msgstr ""
+
+#: widgets/padma-blog-style.php:70
+msgid "Descending Post"
+msgstr ""
+
+#: padma-toolkits.php:85 padma-toolkits.php:99
+msgid "Elementor"
+msgstr ""
+
+#: padma-toolkits.php:84 padma-toolkits.php:98 padma-toolkits.php:113
+msgid "Elementor Test Extension"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ashathemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ashathemes"
+msgstr ""
+
+#: padma-toolkits.php:67
+msgid "Padma Addons"
+msgstr ""
+
+#: widgets/padma-blog-style.php:11
+msgid "Padma Blog Posts"
+msgstr ""
+
+#: widgets/padma-title.php:11
+msgid "Padma Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "Padma Toolkits"
+msgstr ""
+
+#: padma-toolkits.php:114
+msgid "PHP"
+msgstr ""
+
+#: widgets/padma-blog-style.php:55
+msgid "Popular Posts category"
+msgstr ""
+
+#: widgets/padma-blog-style.php:27
+msgid "Popular Posts Content"
+msgstr ""
+
+#: widgets/padma-blog-style.php:35
+msgid "Popular Posts Count"
+msgstr ""
+
+#: widgets/padma-blog-style.php:78
+msgid "Popular Posts Width"
+msgstr ""
+
+#: widgets/padma-blog-style.php:147
+msgid "Read More"
+msgstr ""
+
+#: widgets/padma-title.php:37
+msgid "Section Title"
+msgstr ""
+
+#: widgets/padma-blog-style.php:65
+msgid "Select Post Order"
+msgstr ""
+
+#: widgets/padma-title.php:44
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: widgets/padma-title.php:52
+msgid "Text Center"
+msgstr ""
+
+#: widgets/padma-title.php:48
+msgid "Text Left"
+msgstr ""
+
+#: widgets/padma-title.php:56
+msgid "Text Right"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin will enable blog Features in padma wordpress theme."
+msgstr ""
+
+#: widgets/padma-title.php:27
+msgid "Title Content"
+msgstr ""
+
+#: widgets/padma-title.php:35
+msgid "Title Text"
+msgstr ""
